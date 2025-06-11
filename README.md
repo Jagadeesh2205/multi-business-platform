@@ -1,1 +1,1 @@
-# multi-business-ptatform
+# multi-business-platform
